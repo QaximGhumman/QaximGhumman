@@ -14,7 +14,7 @@
 - 💻 I'm a **Web Developer** focused on building responsive, user-friendly websites and applications
 - 🌱 Currently sharpening my skills in modern frontend and backend technologies
 - 🤝 Open to collaborating on web development projects
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **contactqaxim@gmail.com**
 
 ---
 
@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:contactqaxim@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
