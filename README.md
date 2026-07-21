@@ -15,6 +15,7 @@
 - 🌱 Currently sharpening my skills in modern frontend and backend technologies
 - 🤝 Open to collaborating on web development projects
 - 📫 Reach me at: **contactqaxim@gmail.com**
+- 🌍 Portfolio: **[qasimxportfolio.netlify.app](https://qasimxportfolio.netlify.app)**
 
 ---
 
@@ -51,8 +52,11 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/qasim-ali-ghumman-5a3a823a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://qasimxportfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:contactqaxim@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
