@@ -2,8 +2,8 @@
 <h3 align="center">Web Developer building clean, functional interfaces</h3>
 
 <p align="center">
-  <a href="https://github.com/chandqasim64">
-    <img src="https://komarev.com/ghpvc/?username=chandqasim64&label=Profile%20Views&color=0e75b6&style=flat" alt="chandqasim64" />
+  <a href="https://github.com/QaximGhumman">
+    <img src="https://komarev.com/ghpvc/?username=QaximGhumman&label=Profile%20Views&color=0e75b6&style=flat" alt="QaximGhumman" />
   </a>
 </p>
 
@@ -35,8 +35,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandqasim64&show_icons=true&theme=default&hide_border=true" alt="chandqasim64 stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandqasim64&hide_border=true" alt="chandqasim64 streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QaximGhumman&show_icons=true&theme=default&hide_border=true" alt="QaximGhumman stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QaximGhumman&hide_border=true" alt="QaximGhumman streak" width="48%" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 
 > Pin your best repositories from your GitHub profile settings — they'll appear on your profile page automatically. Once pinned, you can also list highlights here, e.g.:
 
-- **[Project Name](https://github.com/chandqasim64/project-repo)** — Short one-line description of what it does and the tech used.
+- **[Project Name](https://github.com/QaximGhumman/project-repo)** — Short one-line description of what it does and the tech used.
 
 ---
 
